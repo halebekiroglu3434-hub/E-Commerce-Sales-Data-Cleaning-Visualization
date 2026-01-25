@@ -18,3 +18,6 @@ Data Visualization: Matplotlib, Seaborn
 
 Regex was intentionally avoided in the main pipeline to improve readability.
 A minimal example is provided for demonstration purposes.
+
+### Order Status Distribution
+![Display](Visualization%20Outputs/order_status_distribution.png)
