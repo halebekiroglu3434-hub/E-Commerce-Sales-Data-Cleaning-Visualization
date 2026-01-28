@@ -20,5 +20,4 @@ Regex was intentionally avoided in the main pipeline to improve readability.
 A minimal example is provided for demonstration purposes.
 
 ### Comprehensive Analysis
-![Display](Visualization%20Outputs/ecommerce_analysis_dashboard_v.png)
-
+![Display](ecommerce_analysis_dashboard_v.png)
