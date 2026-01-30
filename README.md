@@ -9,12 +9,17 @@ Python: Pandas, NumPy (For ETL processes) Logging
 
 Data Visualization: Matplotlib, Seaborn
 
-## Techniques: , Anomaly Detection, Data Validation  Normalization Data Cleaning & Normalization##
-Normalized inconsistent date formats using controlled datetime parsing (errors="coerce")
-Applied rule-based string cleaning for numeric fields without forcing regex-based solutions
-Separated numeric values from contextual metadata (currency)
-Verified price consistency using UnitPrice × Quantity ≈ TotalPrice
-Flagged invalid or ambiguous records rather than auto-correcting them
-Regex was intentionally avoided in the main pipeline to improve readability. A minimal example is provided for demonstration purposes.
+## 🔧 Techniques
+
+**Anomaly Detection · Data Validation · Data Cleaning & Normalization**
+
+- Normalized inconsistent date formats using controlled `datetime` parsing (`errors="coerce"`)
+- Applied rule-based string cleaning for numeric fields without forcing regex-based solutions
+- Separated numeric values from contextual metadata (currency)
+- Verified price consistency using `UnitPrice × Quantity ≈ TotalPrice`
+- Flagged invalid or ambiguous records rather than auto-correcting them
+
+> Regex was intentionally avoided in the main pipeline to improve readability.  
+> A minimal example is provided for demonstration purposes.
 
 ## Comprehensive Analysis
