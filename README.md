@@ -1,4 +1,4 @@
-###E-Commerce-Sales-Data-Cleaning-Visualization
+##E-Commerce-Sales-Data-Cleaning-Visualization
 
 #Messy E-Commerce Data Cleaning-Visualization & Financial Analysis Pipeline
 
@@ -10,7 +10,7 @@ Python: Pandas, NumPy (For ETL processes) Logging
 
 Data Visualization: Matplotlib, Seaborn
 
-###Techniques: , Anomaly Detection, Data Validation  Normalization Data Cleaning & Normalization
+##Techniques: , Anomaly Detection, Data Validation  Normalization Data Cleaning & Normalization
 Normalized inconsistent date formats using controlled datetime parsing (errors="coerce")
 Applied rule-based string cleaning for numeric fields without forcing regex-based solutions
 Separated numeric values from contextual metadata (currency)
