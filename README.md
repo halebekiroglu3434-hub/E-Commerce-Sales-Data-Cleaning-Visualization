@@ -3,7 +3,6 @@
 ## Messy E-Commerce Data Cleaning-Visualization & Financial Analysis Pipeline
 
 📌 Project Overview: In this project, I transformed a heavily corrupted e-commerce dataset into actionable business intelligence. The original data contained inconsistent dates, mixed currency formats (USD/TL/EUR), and text-based anomalies
-
 🛠️ Technologies Used:
 
 Python: Pandas, NumPy (For ETL processes) Logging
