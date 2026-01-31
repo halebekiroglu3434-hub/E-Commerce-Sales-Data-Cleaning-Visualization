@@ -22,4 +22,8 @@ Data Visualization: Matplotlib, Seaborn
 > Regex was intentionally avoided in the main pipeline to improve readability.  
 > A minimal example is provided for demonstration purposes.
 
-## Comprehensive Analysis
+## Comprehensive Analysis 
+![Dashboard](Visualization_Outputs/ecommerce_analysis_dashboard_v2.png)
+(Instance , not in full form)
+
+![Dashboard](Visualization_Outputs/order_status_distribution.png)
