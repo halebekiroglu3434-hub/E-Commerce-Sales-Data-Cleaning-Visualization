@@ -27,3 +27,9 @@ Data Visualization: Matplotlib, Seaborn
 (Instance , not in full form)
 
 ![Display](Visualization%20Outputs/order_status_distribution.png)
+
+###The Solution (My Methodology): I engineered a robust cleaning script to automate the standardization process:
+Algorithmic Formatting: Wrote a custom logic (visible in the portfolio images) to dynamically detect and convert decimal separators based on index positions, preserving the mathematical value of prices.
+
+Robust Date Parsing: Standardized all temporal data into ISO 8601 format, handling errors and missing values gracefully.
+Data Validation: Implemented checks to ensure no data was lost during the transformation from "Before" to "After."
